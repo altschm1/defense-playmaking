@@ -4,11 +4,6 @@ Created by: Michael Altschuler
 
 Last Updated: 09/18/2021
 
-## Table of Contents:
-* [Purpose](#purose)
-* [How to Run](#how-to-run)
-* [Potential Issues](#potentia-issues)
-
 ## Purpose
 
 The purpose of this application is to gather the following stats for a particular season from stats.nba.com:
