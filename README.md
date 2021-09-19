@@ -27,14 +27,14 @@ The final file will be located in final_data/{season} and will be called final.c
 
 ## How to Run
 
-'''
+```
 python scraper.py {season}
-'''
+```
 
 For example:
-'''
+```
 python scraper.py 2016-17
-'''
+```
 
 ## Potential Issues
 
